@@ -12,4 +12,3 @@
 - [Javelin](https://www.youtube.com/watch?v=wMBhC88p4Tk)
 - [Vector](https://www.youtube.com/watch?v=3lIzaF2bFlY)
 - [Wings](https://www.youtube.com/watch?v=kd-7u4wyFeY)
-
