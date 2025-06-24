@@ -1,0 +1,2 @@
+- [When and what to buy by squirrel](https://squirrel.ws/learn/base-gear-part-1/)
+- [Choosing training and gear by squirrel](https://squirrel.ws/learn/base-gear-part-2/)
