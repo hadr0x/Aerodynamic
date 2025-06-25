@@ -1,8 +1,8 @@
 # Packing methods
 ## Learn to pack
-- [Detailed Packing from Evan Santangelo](https://www.youtube.com/watch?v=eU1iR2y2h_8&pp=ugMICgJpdBABGAHKBQ5za3lkaXZlIHBhY2tpZw%3D%3D)
-- [Beginner series from JYRO](https://www.youtube.com/watch?v=ytssh2BVZrI&pp=ugMICgJpdBABGAHKBQ50YW5kZW0gcGFja2luZw%3D%3D)
-- [Detailed Packing from Salvador Chang](https://www.youtube.com/watch?v=0jLfb76FzkQ)
+- [Detailed Packing by Evan Santangelo](https://www.youtube.com/watch?v=eU1iR2y2h_8&pp=ugMICgJpdBABGAHKBQ5za3lkaXZlIHBhY2tpZw%3D%3D)
+- [Beginner series by JYRO](https://www.youtube.com/watch?v=ytssh2BVZrI&pp=ugMICgJpdBABGAHKBQ50YW5kZW0gcGFja2luZw%3D%3D)
+- [Detailed Packing by Salvador Chang](https://www.youtube.com/watch?v=0jLfb76FzkQ)
 ## Pack different canopies
 - [Sabre2 Packing](https://www.youtube.com/watch?v=Jma18d50Ebk&pp=ugMICgJpdBABGAHKBQ5za3lkaXZlIHBhY2tpZw%3D%3D)
 - [Sabre3 Packing](https://www.youtube.com/watch?v=LklquL-DQjA&t=422s&pp=ugMICgJpdBABGAHKBQ9za3lkaXZlIHBhY2tpbmc%3D)
