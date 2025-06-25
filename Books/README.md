@@ -1,0 +1,3 @@
+- [Parachute And Its Pilot by Brian Germain](https://www.amazon.it/Parachute-Its-Pilot-Ultimate-Ram-Air-ebook/dp/B00CJ3UR6S)
+- [The Great Book of BASE by Matt Gerdes](https://base-book.com/)
+- [Understanding the sky by Dennis Pagen](https://understandingthesky.com/)
