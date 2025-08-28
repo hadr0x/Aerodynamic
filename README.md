@@ -1,2 +1,2 @@
 # Aerodynamic
-Aerodynamic is a collection of information about skydiving and BASE jumping.
+Aerodynamic is a collection of information about wingsuit flying and BASE jumping.
